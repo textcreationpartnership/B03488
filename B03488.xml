@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to Dr. W. Payne</title>
+            <author>Grascome, Samuel, 1641-1708.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03488</idno>
+            <idno type="STC">Wing G1574</idno>
+            <idno type="STC">ESTC R177617</idno>
+            <idno type="EEBO-CITATION">52211836</idno>
+            <idno type="OCLC">ocm 52211836</idno>
+            <idno type="VID">175687</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03488)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175687)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2746:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to Dr. W. Payne</title>
+                  <author>Grascome, Samuel, 1641-1708.</author>
+                  <author>Payne, William, 1650-1696.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Samuel Grascome by Wing.</note>
+                  <note>Publication data suggested by Wing.</note>
+                  <note>With marginal notes.</note>
+                  <note>Reproduction of the original in the University of Texas, Austin Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic nonjurors --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:175687:1"/>
+            <head>A LETTER to Dr. <hi>W. Payne.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>HAving underſtood from one of your late ſuſpended Brethren, that you have been apt to complain of their Silence, and to call for <hi>their Reaſons, their Reaſons; and why did they not publiſh their Rea<g ref="char:EOLhyphen"/>ſons?</hi> promiſing, that <hi>if they would ſend you them by the Peny Poſt, you would take care to anſwer them.</hi> I have hence taken occaſion to give you this preſent trouble; not that I will undertake to relate all their Rea<g ref="char:EOLhyphen"/>ſons,<note place="margin">
+                  <g ref="char:V">Ʋ</g>nlawful<g ref="char:EOLhyphen"/>neſs of Stretching forth the Hand agt. Princes, in 2 Serm. by <hi>William Payne</hi> Rec<g ref="char:EOLhyphen"/>tor of St. <hi>Mary Wh. Chapel.</hi> Lond.—<hi>83. Ep. Ded. p. 3.</hi>
+               </note> nor any of them to the advantage they would themſelves, if they were to go about it, but only to attempt ſome kind of Apology for them, whereby to let you ſee in ſhort, that they are not without <hi>Reaſon</hi> for what they doe. And becauſe I would give both you and my ſelf as little Trouble as I can, I will chuſe for the moſt part to deduce my Arguments from ſuch Principles as I know you are ſo well ſatisfied in already, that they will not need any farther proof.</p>
+            <p n="1">1. Firſt therefore I conceive one Reaſon of their Noncompliance in the matter of the preſent Oath, might be becauſe they would not be like <hi>a kind of Weather-glaſſes,</hi> by <hi>having their Obedience to Governours higher or lower, according to the Temperature and Variation of outward Affairs;</hi> this be<g ref="char:EOLhyphen"/>ing a likely means to render all their miniſterial Endeavours uſeleſs and ineffectual, as likewiſe to become a very great Scandal and Diſturbance to ſuch as have known their former Doctrine and manner of Life, and to bring a Reproach upon that excellent Religion they profeſs. And per<g ref="char:EOLhyphen"/>haps they may be the more cautious in this reſpect, b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cauſe they have been told, that <hi>Treaſon has ſtood ſo long in this Nation, that it hath run to ſeed, and ſcattered its Principles,</hi>
+               <note place="margin">Ep. Ded. p. 4. Id. p. 2.</note> 
+               <hi>that will not fail to nouriſh and make it grow again.</hi> And again, that <hi>Treaſon is a Diſeaſe, which though it be not like the Sweating Sickneſs of old, a Malady peculiar to Engliſh-men, yet the Plenty and Luxury of our Country may perhaps make us more ſubject to <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> than others:</hi> For they may probably conclude from hence, that it would be an unpardo<g ref="char:EOLhyphen"/>nable Crime in thoſe who are to be Guides to others, to give any kind of encoúragement to ſo growing and heinous a Sin, which yet they have too much reaſon to fear a Conformity in the preſent Caſe would be.</p>
+            <p n="2">2. Becauſe <hi>though Popery is a Religion moſt corrupt and dangerous to the Souls of Men, and therefore to be oppoſed by all lawfull ways, by every honeſt Man;</hi>
+               <note place="margin">1 ſt. Serm. p. 9.</note> 
+               <hi>yet to reſiſt, and rebell againſt our Governours</hi> (and by conſequence to oblige our ſelves to adhere, and aſliſt any that may have done worſe by them) <hi>for fear of it, nay, for the thing itſelf, ſhould God in his Judgment bring it upon us, is what the Goſpel forbids upon pain of Damnation, and what the firſt Chri<g ref="char:EOLhyphen"/>ſtians never did againſt Paganiſme, and yet they were as hearty Enemies to that, as we can be againſt Popery.</hi>
+            </p>
+            <pb n="2" facs="tcp:175687:2"/>
+            <p n="3">3. I might add, that if <hi>Reſiſtence,</hi> then alſo an Oath of Allegiance to any but the proper Sovereign,<note place="margin">1 ſt. Serm. p. 9.</note> 
+               <hi>is moſt contrary to the Conſtitution of our Go<g ref="char:EOLhyphen"/>vernment, to the fundamental Eſtabliſhment of it, the many publick Acts and Declarations that are made concerning it,</hi> (ſuch as 5 <hi>Eliz.</hi> c. 1. and 1 <hi>Jac.</hi> 1. c. 1. and others,) <hi>and the many Oaths by which we are reſtrained againſt it,</hi> which theſe diſſatisfied Perſons once thought themſelves <hi>bound to take,</hi> and now think themſelves <hi>bound to keep them, and cannot unlooſe them as</hi> Sam<g ref="char:EOLhyphen"/>pſon did <hi>Withs.</hi>
+            </p>
+            <p n="4">4. Becauſe none amongſt us could poſſibly have a power of excluding the rightfull King from his Government, ſo long as there is any truth in that Doctrine which we have been taught not many Years ſince, name<g ref="char:EOLhyphen"/>ly, that we have not <hi>ſuch a Government as the</hi> Lacedemonians <hi>under their Kings and</hi> Ephori,<note place="margin">1 ſt. Serm. p. 10.</note> 
+               <hi>or as in ſome other places, where the true Sovereignty is not as it is here in the Prince;</hi> our Caſe being ſuch, <hi>that no Engliſh-man, who knows the Conſtitutions of our Kingdom, can be any more ignorant who has the So<g ref="char:EOLhyphen"/>vereign Power,</hi> (and by conſequence who is by our Conſtitution unac<g ref="char:EOLhyphen"/>countable and irreſiſtible,) than a Servant can be ignorant <hi>who is the Maſter of the Houſe where he liveth.</hi>
+            </p>
+            <p n="5">5. Becuuſe they may think taking the Oath would be a kind of owning the Peoples Power to pull down and ſet up Princes; and this they might juſtly fear would be of very miſchievous conſequence to the Nation, ſince <hi>Reſiſtance</hi> onely, which is far leſs than a perpetual Excluſion, is ſaid to have ſo ill an effect,<note place="margin">p. 11.</note> that though <hi>it is poſſible that ſome Inconveniences may happen ſometimes to Mankind, by their Governours abuſing their Power and Au<g ref="char:EOLhyphen"/>thority, and uſing it to ſerve their own Wills and Pleaſures, rather than the pub<g ref="char:EOLhyphen"/>lick Good; yet there is much leſs Miſchief likely to b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fall Mankind from thence, than there would if they ſhould be allowed to diſobey and reſiſt as they thought fit.</hi>
+            </p>
+            <p n="6">6. Beſides, They may very well be conceived to think, that if a Prince might be reſiſted, or (which is the ſame thing) violently kept out of his Dominions,<note place="margin">2d. Serm. p. 22.</note> it ought to be in one of theſe four Caſes, <hi>the Caſe of Religion, the Caſe of Regal Rights, thé Caſe of natural Defence, and the otherwiſe reme<g ref="char:EOLhyphen"/>dileſs Caſe, by the Encroachment of Princes.</hi> But as to theſe they have been taught, and profeſs themſelves verily to believe,</p>
+            <p n="1">1. That they <hi>may ſhew their Zeal and Love to Religion a better way,</hi>
+               <note place="margin">p. 23.</note> 
+               <hi>than by thus reſiſting and fighting,</hi> and I may add, that by adhering to and abet<g ref="char:EOLhyphen"/>ting thoſe that do reſiſt and fight againſt their proper Sovereign <hi>for it; for that is to doe what our Religion expreſly forbids, and which can no way conſiſt with that Love we ſhould have for it;</hi> that <hi>there is another and much better way to demonſtrate the higheſt Affection for Religion, and that is by ſuffering for it, and enduring all manner of evils rather than forſake it;</hi> and that <hi>this is a like<g ref="char:EOLhyphen"/>lier Method to prove and propagate it, and to tranſmit it down to Poſterity, both with ſafety and Credit.</hi>
+            </p>
+            <p n="2">2. That <hi>our Law hath made an expreſs Declaration, that it is not lawfull to reſiſt upon any account whatſoever,</hi>
+               <note place="margin">p. 25.</note> and that <hi>as long as the power of the Sword is
+<pb n="3" facs="tcp:175687:2"/>wholly in the King by the Law of God and Man,</hi>
+               <note place="margin">2d. Serm. p. 26.</note> 
+               <hi>none may draw it without Au<g ref="char:EOLhyphen"/>thority derived from him;</hi> and that therefore <hi>we ſhould be like the Primitive Chriſtians, who ſuffered themſelves to be puniſhed,</hi> adverſus formam, adverſus naturam judicandi, contra ipſas quoque leges.</p>
+            <p n="3">3. That Self-defenſe is <hi>at moſt permiſſion, no Law of Nature;</hi>
+               <note place="margin">p. 27.</note> and that <hi>poſitive Conſtitutions may limit and reſtrain natural Right in that or any other Caſe;</hi> and withall, that <hi>though the Law of Nature allows to reſiſt private Vio<g ref="char:EOLhyphen"/>lence in ones own defence; yet it does not to reſiſt the publick Magiſtrate, for that would be deſtructive of publick Good, and injurious to the Peace and Welfare of Mankind, which the other is not.</hi>
+            </p>
+            <p n="4">4. And laſtly, they have been taught,<note place="margin">p. 28.</note> that they <hi>muſt never expect to find a remedy againſt all poſſible Inconveniences in this World, but ſhall be always ſubject to ſome publick as well as private Evils;</hi> that the <hi>Projectours of the late Times would have the Prince accountable to the People, but never was more miſ<g ref="char:EOLhyphen"/>chief done, than by that Traiterous device;</hi>
+               <note place="margin">
+                  <hi>Id.</hi> p. 30.</note> that <hi>there muſt be unaccountable So<g ref="char:EOLhyphen"/>vereignty ſomewhere;</hi> that <hi>a legal Conſtitution, ſuch as our own, is a great ſecu<g ref="char:EOLhyphen"/>rity to us;</hi> that <hi>things would not ſtand long bent by an illegal Force,</hi>
+               <note place="margin">p. 31.</note> 
+               <hi>but would by degrees unlooſen themſelves,</hi> and would come right again in a little time; and, which is much more conſiderable than all this, that <hi>God's Providence and Government of the World is the beſt ſecurity in this and all other Evils we are ſubject to;</hi> that <hi>Princes are God's immediate Officers and Lieutenants, and he will take particular Inſpection over them, that they abuſe not his People commit<g ref="char:EOLhyphen"/>ted to their charge;</hi> that <hi>to him alone they are accountable, and therefore he who has exempted them from the cognizance of others, will take the matter into his own hands; that</hi> ſatis eſt quod Deum expectant Ultorem; that <hi>a Tyrant's Subjects have not half ſo much reaſon to fear his Power, as he has to be affraid of</hi> God's;<note place="margin">p. 32.</note> that <hi>the great Patron of Juſtice will ſet Bounds to the Power and Inju<g ref="char:EOLhyphen"/>ſtice of Princes, and, as far as is neceſſary for the good of the World, and for his wiſe Deſigns, ſo far ſhall they go, and no farther.</hi>
+            </p>
+            <p>Theſe things have been publickly taught, and they are ſo plain and convincing, that divers you ſee are not able to withſtand their Force, howſoever others may. And as we have been not long ſince taught thus, both from the Pulpit and the Preſs, ſo if we a little conſult our ſtan<g ref="char:EOLhyphen"/>ding Laws, and the nature of our Conſtitution, and the late Opinion of all our beneficed Divines, we ſhall eaſily ſee all theſe agreeing hereto. For,</p>
+            <p n="1">1. There is a Statute of 1 <hi>Jac.</hi> 1. that very expreſly declares the Right to the Monarchy to have lineally deſcended to the Prince, and by proxi<g ref="char:EOLhyphen"/>mity of Bloud, and that hereupon he was recognized and ſubmitted to by the whole Nation, and not upon any Choice or Election of the Peo<g ref="char:EOLhyphen"/>ple. There is another of the ſame King, that enjoins the Oath of Allegi<g ref="char:EOLhyphen"/>ance to him, as the true and ard rightfull King, and (which deſerves well to be conſidered) makes it Treaſon to go about to perſuade one to take the Oath to any elſe. 3 <hi>Jac.</hi> 1. <hi>c.</hi> 4. And ſo long as Mens Allegiance is thus due to the rightfull King, you would be very kind, if you would
+<pb n="4" facs="tcp:175687:3"/>ſhew thoſe who are diſſatisfied, that they may transfer to any other without Sin.</p>
+            <p n="2">2. That neither the Peers of this land, nor the Commons, nor both together in Parliament or out of Parliament; nor the People collictively, nor Repreſentatively, nor any other perſons whatſoever, have any coercive power over the perſons of the Kings of this Realm is as plainly declared as words can do it. 12 <hi>Car.</hi> 2. c. 30. with other Acts to the ſame purpoſe. And <hi>Bracton</hi> you know tells us, that if the peo<g ref="char:EOLhyphen"/>ple be at any time oppreſſed by their King, they are to uſe onely the primitive Arms of prayers and Tears. His words are theſe: <hi>Si autem ab eo petatur — locus erit, ſupplicationi, quod factum Suum corrigat, &amp; emendet, quod quidem ſi non fecerit, ſatis ſufficit ei ad Poenam &amp;.</hi> And not only your ſelf, but all other Benificed Divines were ſo well perſwaded of this, that it is very well known, you have all in a ſolemn manner profeſſed, that <hi>it is not Lawfull upon any pretence whatſoever to take up Armes againſt the King, or any commiſſioned by him;</hi> which it is to be hoped you did in the ſincerity of your hearts, and what ſtrong Reaſons any of you may have met with ſince to alter their Judgments, I cannot tell.</p>
+            <p>Again laſtly, It is poſſible that ſome at leaſt of thoſe whoſe defence I have here under<g ref="char:EOLhyphen"/>taken may be diſſatisfied concerning the power that enjoins theſe Oaths For they may think perhaps that by our Conſtitution a Convention hath no power at all in Law and therefore may not be of power enough to alter the Succeſſion, and ſo may queſtion whether this be a Lawful King; or ſuppoſe they could get over this ſtumbling block, there is yet another very conſiderable doubt ariſes in Relation to the houſe of Commons whether they had any Authority to Act as sn houſe of Parliament in impoſing theſe Oaths. And this is not a needleſs ſcruple if we conſider that,
+<list>
+                  <item>1. Our Law owns no Parliaments, but what are called by the Kings Writs.</item>
+                  <item>2. Nor doth it know any member of the Lower houſe, but who are choſen for a Par<g ref="char:EOLhyphen"/>liament.</item>
+                  <item>3 Nor doth it give a Right to any to Act in the houſe, til they have taken the Teſt.</item>
+                  <item>4. And if any one enter and take their place there before they have taken the Oath of Supremacy, their place is void and they are not at liberty to take it afterwards, but new Election is to be made. 5. <hi>Eliz.</hi> c. 1.</item>
+                  <item>5. And laſtly, The former Oaths of Allegiance and Supremacy have been ſo impo<g ref="char:EOLhyphen"/>ſed by divers Statutes, and are ſo expreſly required of all Members of Parliament, that none could poſſibly have a Power of Subſtituting others in their ſtead, till they had taken thoſe, and had ſwore, if not that they believed King <hi>Jamos,</hi> yet at leaſt that they believed King <hi>William</hi> to be rightfull King of this Land.</item>
+               </list>
+            </p>
+            <p>Wherefore upon theſe ſeveral Accounts, its poſſible ſome may think, (for I will <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t undertake to ſpeak poſitively of other Mens private Sentiments,) 'tis poſſible, Iſay, that ſome may think theſe new Oaths not to be enjoined by a competent Authority, and that ſuppoſing they had believed the matter of them to be lawfull, (which I am pret<g ref="char:EOLhyphen"/>ty well ſatisfied they do not,) yet-they could not think they ought to take them as now impoſed.</p>
+            <p>Here. Sir. I have preſented you with ſome of thoſe Reaſons, which our diſſa<g ref="char:EOLhyphen"/>tisfie'd Cl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rgy may have to offer for themſelves. And now that I have given you this trouble, I muſt take the boldneſs to add another to it, and that is to intreat that you will be ſo kind, as not to ſhift off the matter to a Conqueſt, which is neither owned by King nor People, nor to a vacancy by a voluntary Deſertion, which is a falſity in matter of Fact, and no way reconcilable to the Kings De<g ref="char:EOLhyphen"/>ſign of ſending to the Convention in order to return, and his appearing ſince in Arms to recover his Right, and which, had it been true, could never have amoun<g ref="char:EOLhyphen"/>ted to a Reſignation, unleſs it had been apparently without a deſign of returning again to his Government, which this could not be ſaid to be; but that you will re<g ref="char:EOLhyphen"/>turn a ſerious Anſwer, and ſuch as you will not be aſhamed of at the laſt, whereby you will oblige,</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>Your Humble Servant.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
